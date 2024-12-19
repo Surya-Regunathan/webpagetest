@@ -1,0 +1,105 @@
+body{
+    background-color: white;
+}
+#container{
+    background-color: white;
+    height: 1000px;
+    width: 70%;
+    margin: 0% auto;
+}
+#header{
+    height: 40px;
+    background-color: white;
+}
+#header img{
+    margin-top: 20px;
+    height: 20px;
+}
+#header ul{
+    float: right;
+    padding-top: 8px;
+    padding-right: 16%;
+    color: rgb(64, 64, 64)
+    
+}
+#header ul li{
+    
+    display: inline;
+    margin: 30px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#bu2{
+    color: rgb(250, 117, 55);
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+#bu3{
+    color: white;
+    background-color:rgb(250, 117, 55);
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+#container2{
+    width: 40%;
+    height: 350px;
+    background-color: white;
+    float: left;
+}
+
+#container2 h1{
+    font-size: 50px;
+    padding-top: 90px;
+    padding-right:100px ;
+}
+#container2 p{
+    color: rgb(140, 139, 139);
+    font-size: 21px;
+    padding-top: 20px;
+    padding-right:50px ;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#container3{
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    float: right;
+}
+#container3 img{
+    margin-top: 10px;
+    height: 500px;
+    padding-top: 50px;
+}
+#container2 button a{
+    color:rgb(252, 156, 111);
+    font-size: 14px;
+    text-decoration: none;
+}
+#container2 button{
+    margin-top: 30px;
+    border: 1px solid rgb(252, 156, 111);
+    background-color:white;
+    padding: 20px 20px;
+}
+#bottom ul{
+    padding-top: 300px;
+    padding-right: 300px;
+    font-size: 18px;
+    float: right;
+    
+}
+#bottom ul li{
+    display: inline;
+    margin: 30px;
+    padding-right: 20px;
+}
+#bottom1 button{
+    padding: 10px 10px;
+    background-color: orangered;
+    color: white;
+}
